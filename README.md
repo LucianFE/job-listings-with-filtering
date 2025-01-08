@@ -28,7 +28,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [GitHub Link](https://github.com/LucianFE/job-listings-with-filtering)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://job-listing-filtering-react.netlify.app/)
 
 ## My process
 
